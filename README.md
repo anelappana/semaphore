@@ -32,13 +32,14 @@ make
 ```
 
 Screenshot:  
-![Problem 1 Output](images/problem1.png)
+![Problem 1 Output](problem1.png)
 
 Screenshot:  
-![Problem 2 Output](images/problem1.png)
+![Problem 2 Output](problem2.png)
 
 Screenshot:  
-![Problem 3 Output](images/problem1.png)
+![Problem 3 Output](problem3.png)
 
 Screenshot:  
-![Problem 4 Output](images/problem1.png)
+![Problem 4 Output](problem4.png)
+
