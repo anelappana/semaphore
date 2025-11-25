@@ -29,3 +29,16 @@ Compile using the Makefile:
 
 ```bash
 make
+```
+
+Screenshot:  
+![Problem 1 Output](images/problem1.png)
+
+Screenshot:  
+![Problem 2 Output](images/problem1.png)
+
+Screenshot:  
+![Problem 3 Output](images/problem1.png)
+
+Screenshot:  
+![Problem 4 Output](images/problem1.png)
